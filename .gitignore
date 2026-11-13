@@ -1,0 +1,17 @@
+out/
+.work/
+inputs/
+__pycache__/
+*.pyc
+.DS_Store
+*.apk
+*.jar
+*.dex
+*.img
+*.zip
+*.log
+*.jks
+*.keystore
+*.key
+*.pk8
+*.pem
